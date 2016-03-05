@@ -1,2 +1,2 @@
 # FitBit
-A fit bit application in python 
+A FitBit application in python  to get data from another user's device.
